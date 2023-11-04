@@ -1,8 +1,8 @@
 {
-  "name": "pri-menon",
+  "name": "portfolio",
   "version": "1.0.0",
   "private": true,
-  "description": "pri-menon",
+  "description": "",
   "author": "PRiMENON",
   "keywords": [
     "gatsby"
@@ -17,6 +17,8 @@
   "dependencies": {
     "gatsby": "^5.12.4",
     "gatsby-plugin-sass": "^6.12.3",
+    "gatsby-source-filesystem": "^5.12.1",
+    "gatsby-transformer-remark": "^6.12.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sass": "^1.69.5"

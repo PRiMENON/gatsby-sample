@@ -1,0 +1,13 @@
+$primary-color: red;
+
+.h1Text {
+    color: $primary-color;
+    letter-spacing: 20px;
+}
+
+a {
+    color: blue;
+    &:hover {
+        color: $primary-color;
+    }
+}
