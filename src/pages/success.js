@@ -1,15 +1,15 @@
 import * as React from 'react'
 import Layout from '../compornents/layout'
 
-const NotFoundPage = () => {
-    return(
+const Success = () => {
+    return (
         <Layout>
             <div style={{textAlign:"center", height: "70vh"}}>
-                <h1>404: Not Found</h1>
-                <p>ページが見つかりません。</p>
+                <h1>ご連絡ありがとうございます</h1>
+                <p>２営業日以内にご返信いたします。</p>
             </div>
         </Layout>
     )
 }
 
-export default NotFoundPage
+export default Success

@@ -18,7 +18,7 @@ const Blog = props => {
                                     <h3>{singleBlog.node.frontmatter.title}</h3>
                                     <p>{singleBlog.node.frontmatter.excerpt}</p>
                                     <p>{singleBlog.node.frontmatter.date}</p>
-                                    <Link to={singleBlog.node.fields.slug}>
+                                    <Link to={`/blog${singleBlog.node.fields.slug}`}>
                                         Read More
                                     </Link>
                                 </div>
