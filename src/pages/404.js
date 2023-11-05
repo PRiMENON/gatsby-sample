@@ -1,5 +1,5 @@
 import * as React from 'react'
-import Layout from '../compornents/layout'
+import Layout from '../components/layout'
 
 const NotFoundPage = () => {
     return(

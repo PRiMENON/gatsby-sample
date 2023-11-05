@@ -1,5 +1,5 @@
 import * as React from 'react'
-import Layout from '../compornents/layout'
+import Layout from '../components/layout'
 import * as style from '../css/contact.module.scss'
 
 const Contact = () => {
