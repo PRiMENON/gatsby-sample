@@ -28,7 +28,7 @@ const Index = () => {
                         </p>
                     </div>
                 </div>
-                <StaticImage src="../image/profile.jpg" alt="profile" quality={90} placeholder="blurred" formats={['AUTO', 'WEBP', 'AVIF']} />
+                <StaticImage src="../images/profile.jpg" alt="profile" quality={90} placeholder="blurred" formats={['AUTO', 'WEBP', 'AVIF']} />
                 <div className={style.skills}>
                     <h2>Skills</h2>
                     <div className={style.skillsContainer}>
