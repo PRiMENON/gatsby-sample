@@ -9,6 +9,10 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ec33c525-5318-4e4b-86e2-d6e731e50b08/deploy-status)](https://app.netlify.com/sites/fanciful-halva-c3a061/deploys)
 
+## おことわり
+
+このリポジトリは、三好アキ著の[はじめてつくるGatsbyサイト （Reactフレームワーク） Kindle版](https://www.amazon.co.jp/dp/B0BNQBDHFH/)を写経したサンプルサイトです。内容は本を忠実に書き写しているので、実際のポートフォリオではありません。
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
